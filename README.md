@@ -1,6 +1,6 @@
 # AI-Based-Hedge-Fund-Management-Bot
 
-# Project Overview
+## Project Overview
 This project presents an end-to-end system for intelligent hedge fund management using advanced AI models. The application integrates:
 
   - A BiLSTM-based prediction model trained on real-time financial data.
