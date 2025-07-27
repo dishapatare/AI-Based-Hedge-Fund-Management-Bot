@@ -1,10 +1,10 @@
 # AI-Based-Hedge-Fund-Management-Bot
-=======
-# Project Overview
-This project presents an end-to-end system for intelligent hedge fund management using cloud technologies and advanced AI models. The application integrates:
 
-  - A BiLSTM-based prediction model trained on real-time financial data,
-  - A Flask-based backend API for model inference and live stock data delivery,
+# Project Overview
+This project presents an end-to-end system for intelligent hedge fund management using advanced AI models. The application integrates:
+
+  - A BiLSTM-based prediction model trained on real-time financial data.
+  - A Flask-based backend API for model inference and live stock data delivery.
   - And a Flutter mobile application to visualize market trends, provide trading recommendations, and support automated or manual trading.
 
 It enables users to monitor live stock trends, receive AI-based buy/sell predictions, and automate trades in real-time, forming a seamless pipeline from data acquisition to decision execution.
